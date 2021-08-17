@@ -1,0 +1,12 @@
+[
+   {
+      "name":"Website 1",
+      "url":"https://www.example.org",
+      "slack_channel": null
+   },
+   {
+      "name":"System X",
+      "url":"http://10.44.10.1/wpo",
+      "slack_channel": null
+   }
+]
